@@ -1,0 +1,4 @@
+node_modules
+*.log
+browserify-beefy-tutorial.sublime-project
+browserify-beefy-tutorial.sublime-workspace
